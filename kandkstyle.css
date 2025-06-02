@@ -22,3 +22,18 @@ h2{font-size: 150%;
    margin-left: 5%;}
 section2{font-size: 150%;
    margin-left: 5%;}
+@media screen and (max-width: 768px) {
+  header {
+    font-size: 200%;
+    padding: 5%;
+  }
+
+  section {
+    font-size: 150%;
+    margin-left: 5%;
+  }
+
+  p {
+    font-size: 80%;
+  }
+}
