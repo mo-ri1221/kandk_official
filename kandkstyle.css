@@ -1,19 +1,24 @@
 @charset "utf-8";
 header{text-align: center;
-      margin-top: 50px;
-      font-size: 90px;
+      margin-top: 1%;
+      font-size:500%;
       color: black;
       background-color: white;
-      padding: 20px;
+      padding: 3%;
       }
 body{background-color: black;
      color: white;
      }
-div{margin-left: 300px;}
-section{font-size: 30px;
-        margin-top: 80px;
-        margin-left: 40px;}
-p{font-size: 70px;
-  margin-left: 400px;
-  margin-top: 30px;}
-p1{margin-left: 100px;}
+div{text-align: center;
+    font-size: 150%;}
+section{font-size: 250%;
+        margin-top: 5%;
+        margin-left: 10%;}
+p{font-size: 70%;
+  text-align: center;
+  margin-top: 5%;}
+p1{margin-left: 20%;}
+h2{font-size: 150%;
+   margin-left: 5%;}
+section2{font-size: 150%;
+   margin-left: 5%;}
